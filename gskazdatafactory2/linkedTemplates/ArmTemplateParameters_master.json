@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "gskazdatafactory2"
 		},
+		"LinkedService_gskazstoragedl_accountKey": {
+			"value": ""
+		},
+		"LinkedService_gskazstoragedl_properties_typeProperties_url": {
+			"value": "https://gskazstoragedl.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
