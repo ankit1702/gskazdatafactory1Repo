@@ -1,0 +1,9 @@
+{
+	"name": "gskazdatafactory2",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82a8bcd5-1d5e-4dbe-981b-a6f9ddab12ac",
+		"tenantId": "9bfd59d9-717e-4165-afeb-c11171425f67"
+	}
+}
